@@ -51,6 +51,8 @@ Version 3374 is completely network compatible with the previous public release o
 * Unreal Editor now saves viewport sizes correctly even when viewports are minimized
 * Large .int files are now saved correctly without truncation ([#12](../../issues/12))
 * The UnrealScript compiler now parses and compiles scripts in the correct order after it processes `dependson` directives
+* The editor no longer moves left and down when clicking on a viewport, when used on a multi-monitor setup
+* Viewport selection no longer takes a century, instead acting instantly
 
 #### UnrealScript
 
