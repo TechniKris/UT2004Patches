@@ -123,7 +123,6 @@ Version 3374 is completely network compatible with the previous public release o
 * We overhauled the texture compression code and switched to a new texture compression support library (AMD Compressonator). The new code works on all platforms so you can now import compressed textures using UCC make
 * You can now launch UCC from different folders on Linux and macOS
 * The mesh browser now has a package combo box and a button to open the mesh properties window
-* The new class and texture dialogs now use "MyLevel" as the default package
 * Unreal Editor now embeds the full name of exported textures in the names of the exported files
 * The sound and material browsers now have a menu option allowing you to export all in-use sounds/materials
 * The map export dialog now uses the correct map name as the default name of the exported file
