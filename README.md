@@ -49,7 +49,7 @@ At this point you're all set. No other actions are needed to install the patch.
 
 ## macOS Installation
 
-The macOS version of our patch comes as an application bundle. You should drag this bundle into your applications library. If you're installing our macOS patch for the first time, you will also need to copy the data files from an existing UT installation into your Application Support Library. To install the data files, you need to do the following:
+The macOS version of our patch comes as an application bundle. You should drag this bundle into your applications library. If you're installing our macOS patch for the first time, you will also need to copy the data files from an existing UT2004 installation into your Application Support Library. To install the data files, you need to do the following:
 1. Open a new Finder window
 2. Press ⇧⌘G to bring up the "Go to folder:" dialog
 3. Enter "~/Library/Application Support/" (without the quotes!) in the edit box and click ok
@@ -59,7 +59,7 @@ The macOS version of our patch comes as an application bundle. You should drag t
 > [!CAUTION]
 > Please ensure that you do **NOT** copy the contents of the original game's System directory into ~/Library/Application Support/, otherwise the game will not launch!
 
-After installing the data files, you should be able to launch the UnrealTournament2004 app!
+After installing the data files, you should be able to launch the UT2004 app!
 
 ## Updating Existing Server Installations
 
